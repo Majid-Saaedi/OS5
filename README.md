@@ -1,9 +1,17 @@
 # OS5_Majid Saaedi
 سوال 1:
+
+
 با دستورات
+
+
  git config --global user.name “Github User Name” 
 و سپس
+
+
  git config --global user.email “Github Email” 
+ 
+ 
 دستور push دیگر نیازی به username و password ندارد.
 به جای Github User Name نام کاربری گیهاب و به جای Github Email ایمیلی که با آن در گیت‌هاب ثبت نام کردیم را وارد میکنیم.
 
@@ -23,6 +31,8 @@ branch : شاخه های موجود در repository هستند که یک شاخ�
  
  
 سوال 3:
+
+
 یک دایرکتوری با نام دلخواه میسازیم.
 با دستور cd وارد دایرکتوری میشویم. دستورات git init و  git add –all را به ترتبیب میزنیم . با دستور git commit -m “commit” توضیحات دلخواه را مینویسیم. و سپس دستورات زیر را به ترتیب اجرا میکنیم:
 git branch -M main
